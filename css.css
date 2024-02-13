@@ -3,7 +3,7 @@ background: #fadede;
 }
 .letter{
 
-	width: 340px;
+	width: 380px;
 	height: 200px;
 	display: inline-block;
 }
@@ -12,7 +12,7 @@ background: #fadede;
 				width: 340px;
 				height: 200px;
 				position: absolute;
-				top: 32%;
+				top: 38%;
 				left: 40%;
 				transform: translate(-50%,-50%);
 			}
