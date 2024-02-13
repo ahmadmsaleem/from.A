@@ -3,7 +3,7 @@ background: #fadede;
 }
 .letter{
 
-	width: 380px;
+	width: 340px;
 	height: 200px;
 	display: inline-block;
 }
@@ -12,7 +12,7 @@ background: #fadede;
 				width: 340px;
 				height: 200px;
 				position: absolute;
-				top: 38%;
+				top: 48%;
 				left: 40%;
 				transform: translate(-50%,-50%);
 			}
@@ -20,7 +20,7 @@ background: #fadede;
 			h1{
 				font-family: 'Sacramento', cursive;
 				color: #FE7696;
-				font-size: 24px;
+				font-size: 21px;
 				bottom: 100%;
 
 			}
